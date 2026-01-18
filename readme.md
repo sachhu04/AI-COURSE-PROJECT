@@ -46,10 +46,10 @@ Detailed analysis and results are available in the notebook and the project repo
 
 ## Project Structure
 
-.
-├── analysis.ipynb
-├── 2023BCS0064_AI-PROJECT REPORT.pdf
-├── README.md
+    .
+    ├── analysis.ipynb
+    ├── 2023BCS0064_AI-PROJECT REPORT.pdf
+    └── README.md
 
 
 
