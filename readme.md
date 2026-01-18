@@ -47,7 +47,7 @@ Detailed analysis and results are available in the notebook and the project repo
 ## Project Structure
 
     .
-    ├── analysis.ipynb
+    ├── CSE311_PROJECT_Movie_Genre_Predictor_2023BCS0064.ipynb
     ├── 2023BCS0064_AI-PROJECT REPORT.pdf
     └── README.md
 
